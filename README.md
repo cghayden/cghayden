@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 
+I'm a developer based in Foxboro, MA. I have a passion for learning, problem solving, and creating simple solutions to solve common everyday problems. I taught myself to code while managing a busy household with my amazing wife and our two beautiful and active daughters.
 <!--
 **cghayden/cghayden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
